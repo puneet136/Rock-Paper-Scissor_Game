@@ -2,13 +2,13 @@
 
 A simple **Rock, Paper, Scissors** game built using Python. Play against the computer and test your luck!
 
-## Features
+## ✔️Features
 - User can choose **rock, paper, or scissors**.
 - The computer randomly selects a choice.
 - The winner is decided based on game rules.
 - The game continues until the user types `quit`.
 
-## Installation
+## 🔑Installation
 
 1. **Clone the repository**
    ```sh
@@ -20,7 +20,7 @@ A simple **Rock, Paper, Scissors** game built using Python. Play against the com
    python game.py
    ```
 
-## How to Play
+## 🔎How to Play
 1. Run the script using Python.
 2. Enter `rock`, `paper`, or `scissors` when prompted.
 3. The computer will also make a random choice.
